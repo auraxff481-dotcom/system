@@ -40,6 +40,15 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": "https://replit.com/"
+      },
+      "eas": {
+        "projectId": "f342b374-048b-4dd2-9ef8-0f9ca82fa445"
+      }
+    },
+    "owner": "probalak"
   }
 }
